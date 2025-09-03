@@ -1,0 +1,19 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "learn react from scratch",
+  "license": "ISC",
+  "author": "rohit",
+  "type": "commonjs",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
